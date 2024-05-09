@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3787523455746447228
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3787523455746447229}
+  - component: {fileID: 3787523455746447230}
+  - component: {fileID: 3787523455746447231}
+  m_Layer: 0
+  m_Name: _DicasControl
+  m_TagString: Untagged
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3787523455746447229
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3787523455746447228}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -12, y: -0.96, z: 116.69467}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3787523455746447230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3787523455746447228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32c05b6f64281ec40af57b7980cea0aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fraseBalao: {fileID: 0}
+  dicas:
+  - "\xC9 importante usar escovas macias e nunca usar for\xE7a para escovar os dentes."
+  - "Espero pelo menos 15 minutos para escovar os dentes ap\xF3s se alimentar."
+  - "As c\xE1ries se alimentam dos restos de comida que ficam nos nossos dentes!"
+  - "As c\xE1ries podem fazer nossos dentes doerem."
+  - "\xC9 importante fazer a escova\xE7\xE3o dos dentes pelo menos 3 vezes ao dia,
+    ap\xF3s as refei\xE7\xF5es."
+  - "Quando a l\xEDngua est\xE1 branca \xE9 sinal que ela est\xE1 suja."
+  - "Quando a l\xEDngua est\xE1 rosa \xE9 sinal que ela est\xE1 limpa!"
+  - "Se a l\xEDngua estiver suja poder\xE1 sujar mais os dentes."
+  - "Nossa l\xEDngua deve ser escovada para evitar o mau h\xE1lito."
+  - "N\xE3o fa\xE7a for\xE7a para escovar a l\xEDngua, para n\xE3o machucar!"
+  - "O fio dental ajuda prevenir a c\xE1rie."
+  - O fio dental ajuad a escova a limpar os dentes.
+  - Quando passamos fio dental tiramos os restos de alimentos entre os dentes.
+  - "\xC9 importante passar o fio dental antes de escovar os dentes!"
+  - O fio dental ajuda a limpar a gengiva!
+  - "As c\xE1ries fazem buracos gigantes nos dentes!"
+  - "As c\xE1ries se alimentam com os restos de comida que ficam nos dentes."
+  - "As c\xE1ries fazem a boca cheirar mal!"
+  - "As c\xE1ries fazem o dente doer!"
+  - "As c\xE1ries podem deixar o dente muito doente."
+  - "O dentista cuida da sa\xFAde dos dentes."
+  - "O dentista \xE9 nosso amigo!"
+  - O dentista deixa os dentes limpinhos.
+  - "O dentista tira todas as c\xE1ries dos dentes."
+  - "Pe\xE7a para o papai ou mam\xE3e para ir ao dentista quando estiver com dor
+    de dente."
+  panel: {fileID: 0}
+  Lista:
+  - {fileID: 8300000, guid: 88b8ef2efab18994caa7cc432f875aec, type: 3}
+  - {fileID: 8300000, guid: fa800425b986e3a4ab6112f4eee13403, type: 3}
+  - {fileID: 8300000, guid: aa72fd44c27304c4eae2754ee2a6b597, type: 3}
+  - {fileID: 8300000, guid: f4e2494841ed066449ea577c1281d083, type: 3}
+  - {fileID: 8300000, guid: cf5862392cf65a94eaf49c9fd6491acc, type: 3}
+  - {fileID: 8300000, guid: bcbdb84e9ca187a4b87a4c0913913860, type: 3}
+  - {fileID: 8300000, guid: b589e5754c5dce046966eb6f9897adea, type: 3}
+  - {fileID: 8300000, guid: 8b2baf4bce1a60c4cbafaf2f0330e5cb, type: 3}
+  - {fileID: 8300000, guid: d069c38a8a1ea2146a8f5d46ff4459df, type: 3}
+  - {fileID: 8300000, guid: 8d732830b111b074d99ee2ee06998fb1, type: 3}
+  - {fileID: 8300000, guid: 7d8dace4bb6d8094993b943c50e3edde, type: 3}
+  - {fileID: 8300000, guid: 876375621cf1b8d45a00950f2e73350e, type: 3}
+  - {fileID: 8300000, guid: 314d752b6682b55498124bd02199a0a9, type: 3}
+  - {fileID: 8300000, guid: c726376c723317e429151ebffb07f015, type: 3}
+  - {fileID: 8300000, guid: 8d2cf6567241bfe44b14dc29eb6e8bc6, type: 3}
+  - {fileID: 8300000, guid: f02177db6c0a87d47b57a5a0ccc76a4d, type: 3}
+  - {fileID: 8300000, guid: 6ff26c3a3b7e2c54f8aff1aca1c96522, type: 3}
+  - {fileID: 8300000, guid: 877ec90ec0ba53847b439bfe5a22a1e4, type: 3}
+  - {fileID: 8300000, guid: acfcd085440864d4a8413cc74868246d, type: 3}
+  - {fileID: 8300000, guid: 3fbb6a427a4736c4d99ed0a4f35bdfcb, type: 3}
+  - {fileID: 8300000, guid: 58736495991f5f64b86470fedfdc4d83, type: 3}
+  - {fileID: 8300000, guid: a41cc10145b7ebb428865dca6dbd59cc, type: 3}
+  - {fileID: 8300000, guid: e028edbc860c48248b4335576150aa1b, type: 3}
+  - {fileID: 8300000, guid: 7efdc6e11543d1548b99f0a7c1e09988, type: 3}
+  - {fileID: 8300000, guid: 332f44fcc44025c4a9621120fff5565e, type: 3}
+  tocar: {fileID: 3787523455746447231}
+--- !u!82 &3787523455746447231
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3787523455746447228}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
